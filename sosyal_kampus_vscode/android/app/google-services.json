@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "220413144271",
+    "firebase_url": "https://sosyalkampus-b06df.firebaseio.com",
+    "project_id": "sosyalkampus-b06df",
+    "storage_bucket": "sosyalkampus-b06df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220413144271:android:18ea1e3456c79d80bb9bba",
+        "android_client_info": {
+          "package_name": "com.example.sosyal_kampus_vscode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220413144271-ec90fmlesmmneoirftug3hh57gells8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sosyal_kampus_vscode",
+            "certificate_hash": "d960669ac60291bd5cf5dbe02dbae01f0bbd084f"
+          }
+        },
+        {
+          "client_id": "220413144271-k1jm6c3aeq0ntbivsp7jhadr4uiqjue9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sosyal_kampus_vscode",
+            "certificate_hash": "59f7688c81ca668ddd8cb5e9709d25b9281ad6f0"
+          }
+        },
+        {
+          "client_id": "220413144271-77bhsl2i9b00l2r1if6v5ea43httionq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRFCwTWjlni2gQvm53Uhhn9Ti216YNA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220413144271-77bhsl2i9b00l2r1if6v5ea43httionq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
